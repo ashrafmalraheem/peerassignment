@@ -1,0 +1,8 @@
+*.out
+*.o
+*.asm
+*.d
+*.i
+*.dep
+*.map
+*.patch
